@@ -1,0 +1,15 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+}
+
+.jumbotron {
+    background: linear-gradient(90deg, rgba(0,123,255,1) 0%, rgba(25,135,84,1) 100%);
+}
+
+footer {
+    margin-top: 20px;
+}
